@@ -1,4 +1,4 @@
-# TradehubProposalBot b0.684
+# CarbonProposalBot b0.685
 # Copyright © 2021 Coco & Intsol for Switcheo / MaiTePora <3
 # Licenced under GPL
 
@@ -87,7 +87,7 @@ def discordSendText(message):
 
 # MAIN
 # ------------------------------------------------------------------------------
-print('TradehubProposalBot b0.685')
+print('CarbonProposalBot b0.685')
 
 while True:
     try:
